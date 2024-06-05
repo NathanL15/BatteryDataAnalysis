@@ -1,0 +1,5 @@
+For Next Week:
+-Time spent in different power settings/zones
+-Implement Weight
+-Need more data from waterloo with lower power settings.
+-Perhaps instead of 0-300, 0-175 & 175-300 kW
