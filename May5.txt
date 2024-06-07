@@ -3,3 +3,7 @@ For Next Week:
 -Implement Weight
 -Need more data from waterloo with lower power settings.
 -Perhaps instead of 0-300, 0-175 & 175-300 kW
+-Check csv decimal places
+-Power second per second
+-OAT
+-Create slideshow 
